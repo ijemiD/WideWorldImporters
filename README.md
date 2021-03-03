@@ -1,15 +1,24 @@
-<<<<<<< HEAD
-# Wide World Importers:
-Full-stack implementation of the widely-popular WideWorldImporters, a fictitious company whose sample SQL Server database were provided by Microsoft.
+# Wide World Importers
 
-In summary, it is a wholesale company that's involved in selling and produrement of various types of goods - including edibles
+Sample full-stack app implementation based on the fictitious company by Microsoft using the sample database called WideWorldImporters.
+The app is used to the day-to-day management of sales, procurement and warehousing of various goods to customers and other wholesale buyers.
 
-More information about the database origin:-
-Synopsis & Requirement(s) - https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-what-is?view=sql-server-ver15
-GIt repo - https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers
+It utilizes clean architecture and implemented using SPA (React), REST API,)
+
+WideWorldImporters (https://docs.microsoft.com/en-us/sql/samples/wide-world-importers-what-is?view=sql-server-ver15) is a company that handles sales, procurement and warehousing of various wholesale goods - including cold-storage edibles.
+
+Backend SQL databases and data warehouse can be found here -> https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/wide-world-importers
+
+## Tech / Framework used
+
+Front-End - React / Typescript
+Back-End - Node.JS / ASP.NET Core API + EF Core + SQL Server
+
+
+# Motivation
+
+Demonstrate clean architecture using the latest framework 
+
+
 ***
 ## Build & Run
-=======
-# WideWorldImporters
-Full stack app based on MIcrosoft's WideWorldImporters sample database
->>>>>>> c8d96b8de5579d5cf9fc3972b867600b963c6eb5
